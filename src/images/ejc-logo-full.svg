@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2580" height="1020" viewBox="0 0 258 102">
+  <defs>
+    <clipPath id="clip-ejc-logo-full">
+      <rect width="258" height="102"/>
+    </clipPath>
+  </defs>
+  <g id="ejc-logo-full" clip-path="url(#clip-ejc-logo-full)">
+    <path id="Path_52" data-name="Path 52" d="M28.25,0,42,12.517V66H12.5V5.69Z" transform="translate(-4.5 27.917)" fill="#1b1464"/>
+    <path id="Path_55" data-name="Path 55" d="M30.953-.114l17.14,17.177V89.969H12.5V7.756Z" transform="translate(19.108 3.947)" fill="#1b1464"/>
+    <path id="Path_53" data-name="Path 53" d="M0,0,15.667-5.143v14L0,14Z" transform="translate(8 32.917)" fill="#72c8ec"/>
+    <path id="Path_56" data-name="Path 56" d="M0,1.1,18.725-5.143V11.85L0,18.092Z" transform="translate(31.608 8.917)" fill="#72c8ec"/>
+    <path id="Path_57" data-name="Path 57" d="M0,1.1,18.725-5.143V11.85L0,18.092Z" transform="translate(31.608 27.917)" fill="#72c8ec"/>
+    <path id="Path_58" data-name="Path 58" d="M0,1.1,18.725-5.143V11.85L0,18.092Z" transform="translate(31.608 46.917)" fill="#72c8ec"/>
+    <path id="Path_59" data-name="Path 59" d="M0,1.1,18.725-5.143V11.85L0,18.092Z" transform="translate(31.608 65.917)" fill="#72c8ec"/>
+    <path id="Path_66" data-name="Path 66" d="M0,1.1,18.725-5.143V9.083H0Z" transform="translate(31.608 84.917)" fill="#72c8ec"/>
+    <path id="Path_54" data-name="Path 54" d="M0,0,15.667-5.143v14L0,14Z" transform="translate(8 48.917)" fill="#72c8ec"/>
+    <path id="Path_60" data-name="Path 60" d="M0,0,15.667-5.143v14L0,14Z" transform="translate(8 64.917)" fill="#72c8ec"/>
+    <path id="Path_61" data-name="Path 61" d="M0,0,15.667-5.143V13H0Z" transform="translate(8 80.917)" fill="#72c8ec"/>
+    <path id="Path_62" data-name="Path 62" d="M27.833,0,41.5,11V58h-29V5Z" transform="translate(52 35.917)" fill="#1b1464"/>
+    <path id="Path_63" data-name="Path 63" d="M0,0,15.667-5.143v14L0,14Z" transform="translate(64 40.917)" fill="#72c8ec"/>
+    <path id="Path_64" data-name="Path 64" d="M0,0,15.667-5.143v14L0,14Z" transform="translate(64 56.917)" fill="#72c8ec"/>
+    <path id="Path_65" data-name="Path 65" d="M0,0,15.667-5.143v14L0,14Z" transform="translate(64 72.917)" fill="#72c8ec"/>
+    <path id="Path_67" data-name="Path 67" d="M0,0,15.667-5.143V5H0Z" transform="translate(64 88.917)" fill="#72c8ec"/>
+    <text id="EJC" transform="translate(95.441 94)" fill="#1b1464" font-size="97" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">EJC</tspan></text>
+  </g>
+</svg>

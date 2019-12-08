@@ -19,7 +19,7 @@ const Midsection = () => (
 					<div className="column is-one-third">
 						<article className="media">
 							<figure className="media-left">
-								<span className="icon is-medium">
+								<span className="icon is-large">
 									<FaSass size="fa-2x" color="#d22780" />
 								</span>
 							</figure>
